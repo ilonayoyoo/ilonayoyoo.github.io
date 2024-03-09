@@ -21,17 +21,13 @@
 - Improved customer retention from 40% to 70% by conducting A/B testing 2-way T-test to optimize targeted coupon strategies, implementing time series ARIMA to forecast sales trends and RDF for semantic web data interchange
 
 ## Projects
-### TBDM Movie Dataset - API, Data Processing
-
-- This repository contains a collection of Python scripts designed for interacting with The Movie Database (TMDB) API to fetch and analyze trending movies and actors. The scripts allow users to discover movies based on popularity and release date, retrieve trending movies, discover popular actors, and replace genre IDs with their names for better readability.
-
-
+### TBDM Movie Dataset - API, Python
   
 [Publication](https://github.com/ilonayoyoo/API-TMDB-movie-database)
 
 
-### The Impact of Mindfulness Meditation on Decision-Making under Stress and Sleep Quality in Firefighters
-![Preview](https://github.com/ilonayoyoo/Statistical-Hypothesis-Testing/blob/main/asset/images/firefighter.png)
+### Statistical Hypothesis Testing: The Impact of Mindfulness Meditation on Decision-Making under Stress and Sleep Quality in Firefighters
+(https://github.com/ilonayoyoo/Statistical-Hypothesis-Testing/blob/main/asset/images/firefighter.png)
 
 
 [Publication](https://github.com/ilonayoyoo/Statistical-Hypothesis-Testing/tree/main)

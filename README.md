@@ -25,10 +25,3 @@
 - This repository contains a collection of Python scripts designed for interacting with The Movie Database (TMDB) API to fetch and analyze trending movies and actors. The scripts allow users to discover movies based on popularity and release date, retrieve trending movies, discover popular actors, and replace genre IDs with their names for better readability.
 [Publication](https://github.com/ilonayoyoo/API-TMDB-movie-database)
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
-
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
-
-
-## Talks & Lectures
-- Causality: The new science of an old question - GSP Seminar, Fall 2021

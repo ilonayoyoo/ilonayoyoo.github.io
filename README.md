@@ -2,19 +2,19 @@
 
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
-## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+## Education					       		
+- M.S., Applied Analytics	| Columbia University (_December 2024_)	 			        		
+- B.S., Mathematics | University of California, San Diego (_Mar 2018_)
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
-
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+**Data Science Analyst @ Ernst & Young (_April 2021 - January 2023_)**
+- Reduced 20% in ops costs for supply chain by forecasting maintenance events to predict part demand and optimize inventory level of medical devices to support daily operations and proposal activities 
+- Enhanced 35% in customer relationships by implementing a user-level clinic recommendation with NLP topic modeling in PySpark and deploying with Apache Airflow, power BI DAX for dynamic monitoring, reporting, trend analysis
+  
+**Data Science Consultant @ Ernst & Young (_Aug 2019 - Mar 2021_)**
+- Reduced operational costs by 20% by analyzing 1M+ daily transactions stored in Hadoop using PySpark, Power BI DAX, applying K-means clustering for fraudulent activities and fake account detection
+- Built ETL pipeline using SQL, automating video data extraction and feature engining to replace manual work optimizing the business process time from 1 hour to 7 minutes
+- Improved customer retention from 40% to 70% by conducting A/B testing 2-way T-test to optimize targeted coupon strategies, implementing time series ARIMA to forecast sales trends and RDF for semantic web data interchange
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees

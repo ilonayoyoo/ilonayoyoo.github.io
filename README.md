@@ -27,7 +27,11 @@
 
 
 ### Statistical Hypothesis Testing: The Impact of Mindfulness Meditation on Decision-Making under Stress and Sleep Quality in Firefighters
-(https://github.com/ilonayoyoo/Statistical-Hypothesis-Testing/blob/main/asset/images/firefighter.png)
+[Image](https://github.com/ilonayoyoo/Statistical-Hypothesis-Testing/blob/main/asset/images/firefighter.png)
 
 
 [Publication](https://github.com/ilonayoyoo/Statistical-Hypothesis-Testing/tree/main)
+
+### Kaggle Competition Used Car Sales Price Prediction
+[Publication](https://github.com/ilonayoyoo/KaggleCompetition)
+

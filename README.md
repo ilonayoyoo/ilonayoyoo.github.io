@@ -22,12 +22,16 @@
 
 ## Projects
 ### TBDM Movie Dataset - API, Data Processing
+
 - This repository contains a collection of Python scripts designed for interacting with The Movie Database (TMDB) API to fetch and analyze trending movies and actors. The scripts allow users to discover movies based on popularity and release date, retrieve trending movies, discover popular actors, and replace genre IDs with their names for better readability.
+
+
+  
 [Publication](https://github.com/ilonayoyoo/API-TMDB-movie-database)
 
 
 ### The Impact of Mindfulness Meditation on Decision-Making under Stress and Sleep Quality in Firefighters
-<img width="1139" alt="image" src="https://github.com/ilonayoyoo/ilonayoyoo.github.io/assets/78895473/fbcc345b-d175-4e29-a8aa-87f6a0548192">
+![Preview](https://github.com/ilonayoyoo/Statistical-Hypothesis-Testing/blob/main/asset/images/firefighter.png)
 
 
 [Publication](https://github.com/ilonayoyoo/Statistical-Hypothesis-Testing/tree/main)
